@@ -70,6 +70,7 @@ export async function preloadHandlebarsTemplates() {
 		"systems/ordemparanormal/templates/chat/dt-card.hbs",
 		"systems/ordemparanormal/templates/chat/oposto-request.hbs",
 		"systems/ordemparanormal/templates/chat/oposto-results.hbs",
+		"systems/ordemparanormal/templates/chat/massive-damage-card.hbs",
 
 		// Dialog
 		"systems/ordemparanormal/templates/chat/item-card.html",
