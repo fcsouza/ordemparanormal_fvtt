@@ -10,3 +10,6 @@ packs/*
 .agents/
 .claude/
 skills-lock.json
+
+# OS
+.DS_Store
